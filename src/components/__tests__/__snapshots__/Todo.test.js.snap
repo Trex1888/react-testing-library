@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match snapshot 1`] = `
+<div
+  data-testid="todo-4"
+>
+  <h1
+    style={
+      Object {
+        "color": "green",
+      }
+    }
+  >
+    Fall asleep
+  </h1>
+</div>
+`;
